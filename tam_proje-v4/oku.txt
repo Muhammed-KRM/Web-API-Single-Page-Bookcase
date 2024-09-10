@@ -1,0 +1,8 @@
+docker-compose up --build
+
+yaptığınız anda proje çalışıcaktır 
+
+ancak bazı fetch kısımlarında sıkıntı çıkma ihtimali olabilir onu kendi bilgisayarınıza göre ayarlamalısınız
+
+frontend kısmında single page şeklinde yapılıcaktı ama yapımsürecindeki sıkıntılar yüzünden bazı yerleri düzensiz 
+proje çalışır hale geldiği için ve daha zamanım olmadığı için ekstra düzenlemesini yapmaya vakit bulamadım.

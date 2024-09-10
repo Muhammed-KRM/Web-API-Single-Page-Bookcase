@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|c:\\users\\mamito\\desktop\\tam_proje-v4\\backend\\webapi\\migrations\\20240909102733_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20240909102733_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|c:\\users\\mamito\\desktop\\tam_proje-v4\\backend\\webapi\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909101933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20240909101933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|c:\\users\\mamito\\desktop\\tam_proje-v4\\backend\\webapi\\repositories\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repositories\\config\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\repositories\\config\\counterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\repositories\\config\\counterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|c:\\users\\mamito\\desktop\\tam_proje-v4\\backend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\countercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_U2O1748/bsStoreApp/True/SqlTable/dbo.Counters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\webapi\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03002853-F444-4836-BFA3-51C537CAB4EB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240909102733_new.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909102733_new.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240909102733_new.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909102733_new.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20240909102733_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:27:33.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:25:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240909101933_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909101933_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240909101933_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909101933_InitialCreate.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20240909101933_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:19:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240909090144_UpdateBookPriceColumn.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20240909090144_UpdateBookPriceColumn.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:01:44.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\Config\\BookConfig.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repositories\\Config\\BookConfig.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\Config\\BookConfig.cs",
+              "RelativeToolTip": "WebApi\\Repositories\\Config\\BookConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:55:54.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repositories\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "WebApi\\Repositories\\RepositoryContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:57:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Counters [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_U2O1748/bsStoreApp/True/SqlTable/dbo.Counters.sql",
+              "ToolTip": "dbo.Counters [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-05T14:47:11.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:38:55.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Dockerfile",
+              "RelativeToolTip": "WebApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T11:21:01.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:45:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CounterController.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\CounterController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CounterController.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\CounterController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CounterController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:41:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Token.cs",
+              "RelativeToolTip": "WebApi\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:10:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\User.cs",
+              "RelativeToolTip": "WebApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:10:20.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Models\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:09:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA6wEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:49:12.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:29:41.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CounterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\Config\\CounterConfig.cs",
+              "RelativeDocumentMoniker": "WebApi\\Repositories\\Config\\CounterConfig.cs",
+              "ToolTip": "C:\\Users\\mamito\\Desktop\\tam_proje-v4\\backend\\WebApi\\Repositories\\Config\\CounterConfig.cs",
+              "RelativeToolTip": "WebApi\\Repositories\\Config\\CounterConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:24:42.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

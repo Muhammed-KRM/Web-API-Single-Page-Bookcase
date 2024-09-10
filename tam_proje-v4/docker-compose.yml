@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+  backend:
+    build:
+      context: ./backend/WebApi  # Backend projesinin build yolu
+      dockerfile: Dockerfile
+    ports:
+      - "8088:80"  # Backend'e dışarıdan erişim için port
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development  # Ortam değişkeni
+      - Token__Audience=www.kitap.com       # JWT ayarları
+      - Token__SecurityKey=Benim şifreli anahtarım bu olucak  # JWT gizli anahtarı
+      - ConnectionStrings__sqlConnection=Server=tam_proje-v4-mssql-1,1433;Database=bsStoreApp;User Id=sa;Password=SqL123456;
+    networks:
+      - app-network
+    depends_on:
+      - mssql
+
+  mssql: 
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=SqL123456
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"  # MSSQL portu
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./frontend  # Frontend projesinin build yolu
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"  # Frontend'e dışarıdan erişim için port
+    networks:
+      - app-network
+    depends_on:
+      - backend
+
+networks:
+  app-network:
+    driver: bridge
